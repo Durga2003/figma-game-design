@@ -1,0 +1,43 @@
+.container {
+  position: absolute;
+  width: 35%;
+  top: 0;
+  left: 400px;
+  margin-left: 480px;
+}
+
+.container1 {
+  position: absolute;
+  width: 25%;
+  top: 100px;
+  left: 400px;
+  margin-left: 300px;
+}
+
+body {
+  background-color: #221306;
+  margin-right: 0;
+}
+
+div {
+
+  width: 500px;
+  color: white;
+  padding-left: 00px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin-left: 200px;
+}
+
+img {
+  padding-left: 30px;
+}
+
+p {
+  color: white;
+  width: 400px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+b {
+  color: #E47500;
+}
